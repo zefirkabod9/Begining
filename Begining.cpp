@@ -18,4 +18,13 @@ int main(){
     cin >> name;
     cin >> age;
     cout << "My name is " << name << " , im " << age << " years old." << endl;
+    
+    if (a > b)
+    {
+        cout << "A biggest than B" << endl;
+    }
+    else 
+    {
+        cout << "B biggest than A" << endl;
+    }
 }
